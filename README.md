@@ -1,1 +1,1 @@
-# COMP535-Applied-Machine-Learning
+# COMP551-Applied-Machine-Learning
